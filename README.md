@@ -1,6 +1,6 @@
 # pythonprojects
                                  Linear Regression
-==================================================================================================
+
 linear regression is one of those algorithm which is easy to understand
 linear regression is a supervised machine-learning algorithm
 supervised means labeled data given 
